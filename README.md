@@ -49,3 +49,5 @@ Adding hourly and weekly forecasts
 Including weather alerts for storms and extreme conditions
 
 Enhancing UI with animated weather effects
+
+# ![Image](https://github.com/user-attachments/assets/d29c707c-4d83-403d-aae5-babbc4edd952)
